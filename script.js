@@ -1,4 +1,4 @@
 let button = document.querySelector("#btn");
 button.addEventListener("click", () =>{
-    body.style.backgroundColor="red"
+    body.style.backGroundColor="red"
 })
